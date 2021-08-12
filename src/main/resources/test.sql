@@ -1,0 +1,6 @@
+CREATE TABLE ALUMNOS(
+nombre varchar(52)
+);
+
+
+INSERT INTO ALUMNOS(nombre) VALUES ("PEREZ");
